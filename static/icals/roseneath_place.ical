@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+PRODID:-//Edinburgh Recycling//Roseneath Place
+X-WR-CALDESC:Edinburgh Recycling - Roseneath Place
+X-WR-CALNAME:Edinburgh Recycling - Roseneath Place
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140402
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140416
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140430
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140514
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140528
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140611
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140625
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140709
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140723
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140806
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140820
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140903
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140917
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141001
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141015
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141029
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141112
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141126
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141210
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141224
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20150107
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2370/red_and_blue_b
+ ox_calendar_2014-2015_wed_blue_box_only
+LOCATION:Roseneath Place\, Edinburgh
+END:VEVENT
+END:VCALENDAR

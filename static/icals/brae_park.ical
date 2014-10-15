@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+PRODID:-//Edinburgh Recycling//Brae Park
+X-WR-CALDESC:Edinburgh Recycling - Brae Park
+X-WR-CALNAME:Edinburgh Recycling - Brae Park
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140411
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140425
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140509
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140523
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140606
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140620
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140704
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140718
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140801
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140815
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140829
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140912
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140926
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141010
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141024
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141107
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141121
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141205
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141219
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20150102
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20150116
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140404
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140418
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140502
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140516
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140530
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140613
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140627
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140711
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140725
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140808
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140822
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140905
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140919
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141003
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141017
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141031
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141114
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141128
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141212
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141226
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20150109
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2368/red_and_blue_b
+ ox_calendar_2014-2015_fri_1
+LOCATION:Brae Park\, Edinburgh
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        {% block head %}
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1">
+        <meta name="author" content="Elliot Marsden">
+        <meta name="description" content="A-Z of Edinburgh recycling locations">
+        <meta name="keywords" content="Recycling, Calendars, Edinburgh">
+
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/static/custom-theme/jquery-ui-1.10.0.custom.css">
+        <link rel="stylesheet" href="/static/style.css">
+        <title>{% block title %}{% endblock %}</title>
+        {% endblock %}
+
+        {% block scripts %}
+            <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+            <!-- // <script src="//code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script> -->
+            <script src="/static/custom-theme/jquery-ui-1.9.2.custom.min.js"></script>
+
+            <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        {% endblock %}
+    </head>
+    <body>
+        {% block navbar %}
+            <nav class="navbar navbar-default" role="navigation">
+              <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand">EdRecycle</a>
+                </div>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                  <ul class="nav navbar-nav">
+                    <li><a href="/">Search</a></li>
+                    <li><a href="/help">Help</a></li>
+                    <li><a href="/about">About</a></li>
+                  </ul>
+                </div>
+              </div>
+            </nav>
+        {% endblock %}
+
+        {% block content %}{% endblock %}
+    </body>
+</html>

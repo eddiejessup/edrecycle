@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+PRODID:-//Edinburgh Recycling//Brunswick Street
+X-WR-CALDESC:Edinburgh Recycling - Brunswick Street
+X-WR-CALNAME:Edinburgh Recycling - Brunswick Street
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140410
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140424
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140508
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140522
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140605
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140619
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140703
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140717
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140731
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140814
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140828
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140911
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140925
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141009
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141023
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141106
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141120
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141204
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141218
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20150101
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20150115
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2371/red_and_blue_b
+ ox_calendar_2014-2015_thur_blue_box_only
+LOCATION:Brunswick Street\, Edinburgh
+END:VEVENT
+END:VCALENDAR

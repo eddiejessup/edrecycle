@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+PRODID:-//Edinburgh Recycling//Southfield Road West
+X-WR-CALDESC:Edinburgh Recycling - Southfield Road West
+X-WR-CALNAME:Edinburgh Recycling - Southfield Road West
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140410
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140424
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140508
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140522
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140605
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140619
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140703
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140717
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140731
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140814
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140828
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140911
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140925
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141009
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141023
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141106
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141120
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141204
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141218
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20150101
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20150115
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140403
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140417
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140501
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140515
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140529
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140612
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140626
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140710
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140724
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140807
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140821
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140904
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140918
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141002
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141016
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141030
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141113
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141127
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141211
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141225
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20150108
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2366/red_and_blue_b
+ ox_calendar_2014-2015_thur_1
+LOCATION:Southfield Road West\, Edinburgh
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+PRODID:-//Edinburgh Recycling//Rutland Square
+X-WR-CALDESC:Edinburgh Recycling - Rutland Square
+X-WR-CALNAME:Edinburgh Recycling - Rutland Square
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140414
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140428
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140512
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140526
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140609
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140623
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140707
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140721
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140804
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140818
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140901
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140915
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20140929
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141013
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141027
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141110
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141124
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141208
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20141222
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20150105
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue bin collection
+DTSTART;VALUE=DATE:20150119
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140407
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140421
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140505
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140519
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140602
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140616
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140630
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140714
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140728
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140811
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140825
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140908
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20140922
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141006
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141020
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141103
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141117
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141201
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141215
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20141229
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red bin collection
+DTSTART;VALUE=DATE:20150112
+DESCRIPTION:http://www.edinburgh.gov.uk/downloads/file/2361/red_and_blue_b
+ ox_calendar_2014-2015_mon_2
+LOCATION:Rutland Square\, Edinburgh
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,35 @@
+{% extends "base.jinja" %}
+{% block title %}Edinburgh Recycling Collection Calendars - Help{% endblock %}
+{% block content %}
+    <div class="help">
+        <div class="container">
+            <div class="page-header"><h1 class="h1">Help</h1></div>
+            <h2 class="h2">Add collection dates to your calendar</h2>
+                <ol class="list-group">
+                    <li class="list-group-item">Find your street using the search box</li>
+                    <li class="list-group-item">Right-click 'ical' and select 'Copy link address'</li>
+                    <li class="list-group-item">Add this link to your preferred calendar application. For instructions on how to do this, search for 'add ical to &lt;application&gt;', where &lt;application&gt; is the name of your calendar application</li>
+                </ol>
+            <h3 class="h3">Example: Add your collection dates to Google Calendar</h3>
+                <ol class="list-group">
+                    <li class="list-group-item">Copy the ical link as described above</li>
+                    <li class="list-group-item">Go to Google calendar</li>
+                    <li class="list-group-item">Click the arrow to the right of 'Other calendars' in the bottom left of the screen, and select 'Add by URL'</li>
+                    <li class="list-group-item">Paste the link, and click 'Add Calendar'</li>
+                    <li class="list-group-item">In some cases the calendar may take a few minutes to appear</li>
+                </ol>
+            <h4 class="h4">Optional step: Set a reminder before collection day</h4>
+                <ol class="list-group">
+                    <li class="list-group-item">Once you have added the calendar to Google calendar, find it in the list under 'Other calendars'. It will be called 'Edinburgh Recycling - &lt;street name&gt;'</li>
+                    <li class="list-group-item">Click the arrow to the right of it, and select 'Calendar settings'</li>
+                    <li class="list-group-item">At the top of the page, select the tab 'Reminders and notifications'</li>
+                    <li class="list-group-item">In the section 'Event reminders', click 'Add a reminder'</li>
+                    <li class="list-group-item">In the drop-down box which by default says 'Pop-up', select whether you would like to be reminded by a pop-up on your computer or phone, or by email</li>
+                    <li class="list-group-item">Using the other two boxes in the section, select the amount of time before the midnight before the collection day when you want the reminder to occur. For example, '3 hours' would cause a reminder to occur at 21:00 on the night before collection day.</li>
+                    <li class="list-group-item">At the bottom of the page, click 'Save'</li>
+                </ol>
+            <h4 class="h4">Troubleshooting</h4>
+                <p>If you can't see the calendar, check that it is visible by looking at the list 'Other calendars' in the bottom left of the window. Next to each calendar name is a square which is coloured if it is visible, and white if it is hidden. If the 'Edinburgh Recycling' calendar has a white square next to it, click the square to make it visible.</p>
+        </div>
+    </div>
+{% endblock %}
