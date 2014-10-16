@@ -1,6 +1,5 @@
 from __future__ import print_function
 from flask import Flask, jsonify, request, render_template
-from flask.ext.babel import Babel
 import couchdb
 from datetime import date
 import locale
@@ -8,9 +7,6 @@ import locale
 locale.setlocale(locale.LC_ALL, 'en_GB')
 
 app = Flask(__name__)
-babel = Babel(app)
-babel.BABEL_DEFAULT_LOCALE = 'en-gb'
-
 couch = couchdb.Server()
 db = couch['locations']
 
