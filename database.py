@@ -1,17 +1,11 @@
-import couchdb
+import sqlite3
 import parse
-from couchdb.mapping import TextField, DateField, ListField, Document
 import string
+import json
 
 
-class Location(Document):
-    _id = TextField()
-    location = TextField()
-    filename = TextField()
-    blue_dates = ListField(DateField())
-    red_dates = ListField(DateField())
-    pdf = TextField()
-    day = TextField()
+def date_handler(obj):
+    return obj.isoformat() if hasattr(obj, 'isoformat') else obj
 
 
 def put_data():
@@ -21,17 +15,30 @@ def put_data():
 
 
 def put_letter_data(letter):
-    couch = couchdb.Server()
-    db = couch['locations']
+    conn = sqlite3.connect('recyfans.db')
+    c = conn.cursor()
+
     letter_data = parse.uncache_letter_data(letter)
     for data in letter_data:
-        location = Location(_id=data.get('location'),
-                            location=data.get('location'),
-                            filename=data.get('filename'),
-                            blue_dates=data.get('blue_dates'),
-                            red_dates=data.get('red_dates'),
-                            pdf=data.get('pdf_link'),
-                            day=data.get('day'))
-        if location._id not in db:
-            location.store(db)
-            print(data['location'])
+        location = data.get('location')
+        filename = data.get('filename')
+        blue_dates_py = data.get('blue_dates')
+        blue_dates = json.dumps(blue_dates_py, default=date_handler)
+        red_dates_py = data.get('red_dates')
+        red_dates = json.dumps(red_dates_py, default=date_handler)
+        pdf = data.get('pdf_link')
+        day = data.get('day')
+        c.execute("insert into locations values(?, ?, ?, ?, ?, ?)",
+                  (location, filename, blue_dates, red_dates, pdf, day))
+
+        print(location)
+    conn.commit()
+    conn.close()
+
+
+def make_db():
+    conn = sqlite3.connect('recyfans.db')
+    c = conn.cursor()
+    c.execute('''CREATE TABLE locations
+              (location text, filename text, blue_dates text, red_dates text,
+              pdf text, day text)''')

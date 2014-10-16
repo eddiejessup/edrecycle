@@ -1,50 +1,62 @@
 from __future__ import print_function
 from flask import Flask, jsonify, request, render_template
-import couchdb
+import sqlite3
 from datetime import date
 import locale
+import json
 
 locale.setlocale(locale.LC_ALL, 'en_GB')
 
 app = Flask(__name__)
-couch = couchdb.Server()
-db = couch['locations']
 
 
 @app.route('/_search_data')
 def search_data():
-    return jsonify(keys=[r.key for r in db.view('_all_docs').rows])
+    conn = sqlite3.connect('recyfans.db')
+    c = conn.cursor()
+    c.execute('select location from locations')
+    keys = [results[0] for results in c.fetchall()]
+    conn.close()
+    return jsonify(keys=keys)
 
 
 @app.route('/_lookup')
 def lookup():
+    conn = sqlite3.connect('recyfans.db')
+    conn.row_factory = sqlite3.Row
+    c = conn.cursor()
+
     date_now = date.today()
 
     key = request.args.get('loc', 'nan')
-    try:
-        doc = db[key]
-    except couchdb.ResourceNotFound:
+    c.execute("select * from locations where location=?", (key,))
+    row = c.fetchone()
+    if row is None:
         success = False
         results = []
     else:
         success = True
-        results = doc
-        if doc['blue_dates'] is not None:
+        results = dict(row)
+        if row['blue_dates'] != 'null':
             results['blue'] = True
-            for collect_date in doc['blue_dates']:
+            for collect_date in json.loads(row['blue_dates']):
                 collect_date_py = date(*[int(n)
                                          for n in collect_date.split('-')])
                 if collect_date_py > date_now:
                     results['next_blue_date'] = collect_date_py.strftime('%x')
                     break
-        if doc['red_dates'] is not None:
+        else:
+            results['blue'] = False
+        if row['red_dates'] != 'null':
             results['red'] = True
-            for collect_date in doc['red_dates']:
+            for collect_date in json.loads(row['red_dates']):
                 collect_date_py = date(*[int(n)
                                          for n in collect_date.split('-')])
                 if collect_date_py > date_now:
                     results['next_red_date'] = collect_date_py.strftime('%x')
                     break
+        else:
+            results['red'] = False
     return jsonify(success=success, results=results)
 
 
