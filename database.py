@@ -28,10 +28,15 @@ def put_letter_data(letter):
         red_dates = json.dumps(red_dates_py, default=date_handler)
         pdf = data.get('pdf_link')
         day = data.get('day')
-        c.execute("insert into locations values(?, ?, ?, ?, ?, ?)",
-                  (location, filename, blue_dates, red_dates, pdf, day))
 
-        print(location)
+        c.execute("select * from locations where location=?", (location,))
+        row = c.fetchone()
+
+        if row is None:
+            c.execute("insert into locations values(?, ?, ?, ?, ?, ?)",
+                      (location, filename, blue_dates, red_dates, pdf, day))
+
+            print(location)
     conn.commit()
     conn.close()
 
