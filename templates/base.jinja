@@ -9,14 +9,14 @@
         <meta name="keywords" content="Recycling, Calendars, Edinburgh">
 
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/static/custom-theme/jquery-ui-1.10.0.custom.css">
-        <link rel="stylesheet" href="/static/style.css">
+        <link rel="stylesheet" href="{{ url_for('static', filename='custom-theme/jquery-ui-1.10.0.custom.css') }}">
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
         <title>{% block title %}{% endblock %}</title>
         {% endblock %}
 
         {% block scripts %}
             <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
-            <script src="/static/custom-theme/jquery-ui-1.9.2.custom.min.js"></script>
+            <script src="{{ url_for('static', filename='custom-theme/jquery-ui-1.9.2.custom.min.js') }}"></script>
             <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
             <!-- So that javascript knows where my site is -->
             <script type=text/javascript>

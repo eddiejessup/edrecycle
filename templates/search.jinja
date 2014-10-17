@@ -33,5 +33,5 @@
 {% endblock %}
 {% block scripts %}
 {{ super() }}
-        <script src="/static/filter.js"></script>
+        <script src="{{ url_for('static', filename='filter.js') }}"></script>
 {% endblock %}
