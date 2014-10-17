@@ -19,7 +19,7 @@ var main = function() {
                 if (data.success) {
                     $('#locname').text(data.results.location);
                     $('#day').text(data.results.day);
-                    $('#ical').attr('href', '/static/icals/' + data.results.filename + '.ical');
+                    $('#ical').attr('href', $SCRIPT_ROOT + '/static/icals/' + data.results.filename + '.ical');
                     $('#pdf').attr('href', data.results.pdf);
                     if (data.results.blue) {
                         $('#yesblue').show()
