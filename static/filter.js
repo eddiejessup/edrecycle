@@ -1,7 +1,7 @@
 var main = function() {
     $('.results').hide();
 
-    jQuery.getJSON('/_search_data').done(function (data) {
+    jQuery.getJSON($SCRIPT_ROOT + '/_search_data').done(function (data) {
         $('#loc').autocomplete({
             source: function(request, response) {
                 var results = $.ui.autocomplete.filter(data.keys, request.term);
@@ -14,7 +14,7 @@ var main = function() {
 
     $('#loc').keyup(function() {
         if ($('#loc').val().length > 3) {
-            $.getJSON('/_lookup', {loc: $('#loc').val()}, function(data) {
+            $.getJSON($SCRIPT_ROOT + '/_lookup', {loc: $('#loc').val()}, function(data) {
                 $('.results').hide();
                 if (data.success) {
                     $('#locname').text(data.results.location);

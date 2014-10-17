@@ -16,10 +16,12 @@
 
         {% block scripts %}
             <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
-            <!-- // <script src="//code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script> -->
             <script src="/static/custom-theme/jquery-ui-1.9.2.custom.min.js"></script>
-
             <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+            <!-- So that javascript knows where my site is -->
+            <script type=text/javascript>
+              $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+            </script>
         {% endblock %}
     </head>
     <body>
@@ -31,9 +33,9 @@
                 </div>
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                   <ul class="nav navbar-nav">
-                    <li><a href="/">Search</a></li>
-                    <li><a href="/help">Help</a></li>
-                    <li><a href="/about">About</a></li>
+                    <li><a href="{{ url_for('search') }}">Search</a></li>
+                    <li><a href="{{ url_for('help') }}">Help</a></li>
+                    <li><a href="{{ url_for('about') }}">About</a></li>
                   </ul>
                 </div>
               </div>
