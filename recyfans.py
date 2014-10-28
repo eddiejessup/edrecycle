@@ -9,6 +9,7 @@ locale.setlocale(locale.LC_ALL, 'en_GB')
 
 app = Flask(__name__)
 
+app.config["APPLICATION_ROOT"] = "/edrecycle"
 
 @app.route('/_search_data')
 def search_data():
