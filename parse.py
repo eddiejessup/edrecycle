@@ -7,7 +7,7 @@ import string
 import pickle
 from os.path import join
 
-project_path = '/Users/ejm/Projects/recyfans'
+project_path = '/Users/ejm/Projects/edrecycle'
 
 domain_name = 'http://www.edinburgh.gov.uk/'
 base_index_path = 'directory/143/a_to_z/'

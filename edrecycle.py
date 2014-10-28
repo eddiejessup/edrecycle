@@ -13,7 +13,7 @@ app.config["APPLICATION_ROOT"] = "/edrecycle"
 
 @app.route('/_search_data')
 def search_data():
-    conn = sqlite3.connect('recyfans.db')
+    conn = sqlite3.connect('edrecycle.db')
     c = conn.cursor()
     c.execute('select location from locations')
     keys = [results[0] for results in c.fetchall()]
@@ -23,7 +23,7 @@ def search_data():
 
 @app.route('/_lookup')
 def lookup():
-    conn = sqlite3.connect('recyfans.db')
+    conn = sqlite3.connect('edrecycle.db')
     conn.row_factory = sqlite3.Row
     c = conn.cursor()
 

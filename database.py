@@ -15,7 +15,7 @@ def put_data():
 
 
 def put_letter_data(letter):
-    conn = sqlite3.connect('recyfans.db')
+    conn = sqlite3.connect('edrecycle.db')
     c = conn.cursor()
 
     letter_data = parse.uncache_letter_data(letter)
@@ -42,7 +42,7 @@ def put_letter_data(letter):
 
 
 def make_db():
-    conn = sqlite3.connect('recyfans.db')
+    conn = sqlite3.connect('edrecycle.db')
     c = conn.cursor()
     c.execute('''CREATE TABLE locations
               (location text, filename text, blue_dates text, red_dates text,
