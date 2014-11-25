@@ -5,11 +5,12 @@ from datetime import date
 import locale
 import json
 
-locale.setlocale(locale.LC_ALL, 'en_GB')
+locale.setlocale(locale.LC_ALL, 'en_GB.utf8')
 
 app = Flask(__name__)
 
-app.config["APPLICATION_ROOT"] = "/edrecycle"
+# app.config["APPLICATION_ROOT"] = "/edrecycle"
+
 
 @app.route('/_search_data')
 def search_data():
@@ -76,5 +77,5 @@ def about():
     return render_template('about.jinja')
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     app.run(debug=True)
