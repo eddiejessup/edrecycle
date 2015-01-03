@@ -7,11 +7,9 @@ var main = function() {
                 var results = $.ui.autocomplete.filter(data.keys, request.term);
                 response(results.slice(0, 10));
             },
-            // source: data.keys,
             minLength: 3,
         });
     })
-
 }
 
 var search = function() {
