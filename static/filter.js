@@ -12,9 +12,9 @@ var main = function() {
     })
 }
 
-var search = function() {
-    if ($('#loc').val().length > 3) {
-        $.getJSON($SCRIPT_ROOT + '/_lookup', {loc: $('#loc').val()}, function(data) {
+var search = function(value) {
+    if (value.length > 3) {
+        $.getJSON($SCRIPT_ROOT + '/_lookup', {loc: value}, function(data) {
             $('.results').hide();
             if (data.success) {
                 $('#locname').text(data.results.location);
@@ -44,4 +44,5 @@ var search = function() {
 }
 
 $(document).ready(main)
-$(document).on('keyup','#loc', search);
+$(document).on('propertychange change keyup input paste', '#loc', function() {search($('#loc').val())});
+$(document).on('autocompleteselect', '#loc', function(event, ui) {search(ui.item.value);});
