@@ -11,6 +11,10 @@ app = Flask(__name__)
 
 # app.config["APPLICATION_ROOT"] = "/edrecycle"
 
+yes = 'Your {color} bin will next be collected on {date}'
+no = 'There is no {color} bin collection at this address'
+err = 'There is a {color} bin collection, but its next date is unavailable'
+
 
 @app.route('/_search_data')
 def search_data():
@@ -38,27 +42,36 @@ def lookup():
         results = []
     else:
         success = True
-        results = dict(row)
+        results = {'day': row['day'],
+                   'location': row['location'],
+                   'pdf': row['pdf'],
+                   'filename': row['filename'],
+                   }
         if row['blue_dates'] != 'null':
-            results['blue'] = True
+            results['blue_msg'] = err.format(color='blue')
             for collect_date in json.loads(row['blue_dates']):
                 collect_date_py = date(*[int(n)
                                          for n in collect_date.split('-')])
                 if collect_date_py > date_now:
-                    results['next_blue_date'] = collect_date_py.strftime('%x')
+                    next_blue_date = collect_date_py.strftime('%x')
+                    results['blue_msg'] = yes.format(color='blue',
+                                                     date=next_blue_date)
                     break
         else:
-            results['blue'] = False
+            results['blue_msg'] = no.format(color='blue')
         if row['red_dates'] != 'null':
-            results['red'] = True
+            results['red_msg'] = err.format(color='red')
             for collect_date in json.loads(row['red_dates']):
                 collect_date_py = date(*[int(n)
                                          for n in collect_date.split('-')])
                 if collect_date_py > date_now:
-                    results['next_red_date'] = collect_date_py.strftime('%x')
+                    next_red_date = collect_date_py.strftime('%x')
+                    results['red_msg'] = yes.format(color='red',
+                                                    date=next_red_date)
                     break
         else:
-            results['red'] = False
+            results['red_msg'] = no.format(color='red')
+        print(results)
     return jsonify(success=success, results=results)
 
 

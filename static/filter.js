@@ -21,22 +21,8 @@ var search = function(value) {
                 $('#day').text(data.results.day);
                 $('#ical').attr('href', $SCRIPT_ROOT + '/static/icals/' + data.results.filename + '.ical');
                 $('#pdf').attr('href', data.results.pdf);
-                if (data.results.blue) {
-                    $('#yesblue').show()
-                    $('#noblue').hide()
-                    $('#blue-date').text(data.results.next_blue_date);
-                } else {
-                    $('#yesblue').hide()
-                    $('#noblue').show()
-                }
-                if (data.results.red) {
-                    $('#yesred').show()
-                    $('#nored').hide()
-                    $('#red-date').text(data.results.next_red_date);
-                } else {
-                    $('#yesred').hide()
-                    $('#nored').show()
-                }
+                $('#blue').text(data.results.blue_msg);
+                $('#red').text(data.results.red_msg);
                 $('.results').show();
             }
         });
