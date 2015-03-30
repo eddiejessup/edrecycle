@@ -5,7 +5,7 @@ from datetime import date
 import locale
 import json
 
-locale.setlocale(locale.LC_ALL, 'en_GB.utf8')
+locale.setlocale(locale.LC_ALL, locale.getdefaultlocale())
 
 app = Flask(__name__)
 
